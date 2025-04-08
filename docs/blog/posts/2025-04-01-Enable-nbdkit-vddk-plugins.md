@@ -148,4 +148,4 @@ cd vmware-vix-disklib-distrib/
 ls
 ```
 
-Appliance is ready to migrate VM using vddk plugins now. Refer [Coming soon...](Link) to use vddk plugins for migration.
+Appliance is ready to migrate VM using vddk plugins now. Refer [Use vddk plugins](https://blog.rackspacecloud.com/blog/2025/04/03/use_nbdkit_vddk_plugins_for_migration/) to use vddk plugins for migration.  
